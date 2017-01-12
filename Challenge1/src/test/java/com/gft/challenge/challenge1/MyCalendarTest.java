@@ -8,9 +8,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by armk on 2017-01-11.
- */
 public class MyCalendarTest {
 
     @Test
